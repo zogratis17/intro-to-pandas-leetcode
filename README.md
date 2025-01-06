@@ -1,1 +1,1 @@
-# data-analyst-prep
+# Introduction-To-Pandas-Leetcode-Study-Plan
